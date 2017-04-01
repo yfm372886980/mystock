@@ -1,1 +1,2 @@
-
+delete from METRO_FAVORITE_STATION;
+delete from METRO_FAVORITE_LINE;
